@@ -1,0 +1,14 @@
+{
+     "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "T9A2WQFUNP.com.horsiz",
+                "paths": [ "*" ]
+            },
+        ]
+    },
+   "webcredentials": {
+      "apps": [ "T9A2WQFUNP.com.horsiz" ]
+   },
+}
